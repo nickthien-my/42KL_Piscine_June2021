@@ -16,3 +16,8 @@ void	ft_print_alphabet(void)
 		letter++;
 	}
 }
+
+/*int		main(void)
+{
+	ft_print_alphabet();
+}*/
